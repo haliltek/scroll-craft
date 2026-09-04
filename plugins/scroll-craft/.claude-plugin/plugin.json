@@ -1,0 +1,11 @@
+{
+  "name": "scroll-craft",
+  "description": "Halil Tek tarafindan gelistirilen kaydirma odakli arayuz ve tasarim becerisi.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Halil Tek"
+  },
+  "homepage": "https://github.com/haliltek/scroll-craft",
+  "repository": "https://github.com/haliltek/scroll-craft",
+  "license": "MIT"
+}
